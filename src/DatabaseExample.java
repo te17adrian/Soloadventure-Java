@@ -48,7 +48,6 @@ public class DatabaseExample {
                     System.out.println(body);
                 }
 
-
             }
 
             // Close conn and stmt
