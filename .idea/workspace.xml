@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="caeb37c7-f2a4-42cc-8699-d557dab953f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/soloadventurejava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/soloview.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solocontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solomvc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DatabaseExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DatabaseExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/solomodel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/solomodel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/soloview.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/soloview.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,10 +105,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" width="1281" height="851" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584439420698" />
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585040872707">
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1585637665695">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585040872707" />
+    <state x="655" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585637665695" />
     <state x="619" y="179" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584434052599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
